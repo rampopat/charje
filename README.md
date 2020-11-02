@@ -1,9 +1,4 @@
-# CO362 Group 1 (CHARJE)
-
-Software Engineering Project for Group 1:
-Crowd-sourcing agent-based machine learning algorithms using prediction marketplaces implemented on a blockchain
-
-This project is built for the CO362 Software Engineering Project module taken by 3rd year Imperial College London Computing/JMC students.
+# Crowd-sourcing agent-based machine learning algorithms using prediction marketplaces implemented on a blockchain
 
 ## Background
 Everyday, energy retailers face the challenge of purchasing an optimal amount of energy from energy wholesalers.
@@ -66,4 +61,4 @@ technologies and development.
 We would also like to thank FetchAI (Kevin, Jon, Yujian, Daniel) for their helpful insights regarding prediction
 markets, energy markets, ML models, and developing a decentralised platform.
 
-##### Authors: Ashly Lau, Christopher Gunadi, Esther Wong, Hannah Schlueter, Jasmine Quah, Ram Popat
+##### Authors: Ram Popat, Ashly Lau, Christopher Gunadi, Esther Wong, Hannah Schlueter and Jasmine Quah
